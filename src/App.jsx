@@ -1,14 +1,13 @@
- '/vite.svg'
-import './App.css'
+"/vite.svg";
+import "./App.css";
+import Input from "./components/Input";
 
 function App() {
-  
-
   return (
     <>
-      
+      <Input />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
